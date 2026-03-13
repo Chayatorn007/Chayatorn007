@@ -36,7 +36,7 @@
 <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="left" alt="Windows Server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" /></a>
 <a href="https://www.vmware.com/" target="_blank"><img align="left" alt="VMware" width="26px" src="https://cdn.simpleicons.org/vmware/0091DA" /></a>
 <a href="https://www.proxmox.com/" target="_blank"><img align="left" alt="Proxmox" width="26px" src="https://cdn.simpleicons.org/proxmox/E57000" /></a>
-<a href="https://wazuh.com/" target="_blank"><img align="left" alt="Wazuh" width="26px" src="https://avatars.githubusercontent.com/u/10839019?s=200&v=4" /></a>
+<a href="https://wazuh.com/" target="_blank"><img align="left" alt="Wazuh" width="26px" src="https://github.com/wazuh.png" /></a>
 <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic Stack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /></a>
 <a href="https://grafana.com/" target="_blank"><img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" /></a>
 <a href="https://prometheus.io/" target="_blank"><img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" /></a>
