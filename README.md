@@ -6,8 +6,6 @@
 <a href="https://github.com/Chayatorn007" target="_blank"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
 <br />
-<br />
-<br />
 
 ### Languages and Tools:
 
