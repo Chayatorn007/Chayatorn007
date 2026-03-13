@@ -29,20 +29,29 @@
 <br />
 <br />
 
-### Softwares & Platforms:
+### 🛡️ Security & Infrastructure Stack:
 
-<a href="https://wazuh.com/" target="_blank"><img align="left" alt="Wazuh" width="26px" src="https://cdn.simpleicons.org/wazuh/00AEEF" /></a>
-<a href="https://www.elastic.co/" target="_blank"><img align="left" alt="ELK Stack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /></a>
+<a href="https://www.kali.org/" target="_blank"><img align="left" alt="Kali Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" /></a>
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
+<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="left" alt="Windows Server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" /></a>
+<a href="https://www.vmware.com/" target="_blank"><img align="left" alt="VMware" width="26px" src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" /></a>
 <a href="https://www.proxmox.com/" target="_blank"><img align="left" alt="Proxmox" width="26px" src="https://cdn.simpleicons.org/proxmox/E57000" /></a>
 
-<br />
-<br />
+<br /><br />
+
+<a href="https://wazuh.com/" target="_blank"><img align="left" alt="Wazuh" width="26px" src="https://icon.icepanel.io/Technology/svg/Wazuh.svg" /></a>
+<a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic Stack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /></a>
+<a href="https://grafana.com/" target="_blank"><img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" /></a>
+<a href="https://prometheus.io/" target="_blank"><img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" /></a>
+<a href="https://www.pfsense.org/" target="_blank"><img align="left" alt="pfSense" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original.svg" /></a>
+
+<br /><br />
 
 ---
 
 ### Now Playing 🎧
+*(รอดำเนินการเชื่อมต่อบัญชี Spotify...)*
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/)
 <br/>
 
 ---
