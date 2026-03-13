@@ -5,7 +5,7 @@
 ## Heyyo, I'm <a href="https://github.com/Chayatorn007" target="_blank">Tang (Chayathorn)</a>!
 (IT Infrastructure & Cybersecurity Enthusiast 🛡️)
 
-<a href="mailto:tang0813122991@gmail.com" target="_white"><img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="mailto:tang0813122991@gmail.com" target="_blank"><img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://github.com/Chayatorn007" target="_blank"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
