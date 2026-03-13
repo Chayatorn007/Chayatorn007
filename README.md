@@ -31,11 +31,9 @@
 
 ### Softwares & Platforms:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img align="left" alt="Wazuh" width="26px" src="https://img.icons8.com/color/48/000000/shield.png" />
-<img align="left" alt="Dell Server" width="26px" src="https://img.icons8.com/color/48/000000/dell--v1.png" />
+<a href="https://wazuh.com/" target="_blank"><img align="left" alt="Wazuh" width="26px" src="https://cdn.simpleicons.org/wazuh/00AEEF" /></a>
+<a href="https://www.elastic.co/" target="_blank"><img align="left" alt="ELK Stack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /></a>
+<a href="https://www.proxmox.com/" target="_blank"><img align="left" alt="Proxmox" width="26px" src="https://cdn.simpleicons.org/proxmox/E57000" /></a>
 
 <br />
 <br />
