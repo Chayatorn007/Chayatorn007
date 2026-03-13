@@ -32,7 +32,8 @@
 ### Softwares & Platforms:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="VMware" width="26px" src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" alt="Wazuh" width="26px" src="https://img.icons8.com/color/48/000000/shield.png" />
 <img align="left" alt="Dell Server" width="26px" src="https://img.icons8.com/color/48/000000/dell--v1.png" />
 
