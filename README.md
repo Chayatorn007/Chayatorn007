@@ -9,11 +9,6 @@
 <br />
 <br />
 
-### 📕 My Tech Journey & Notes
-
-- [🔐](#)
-<br/>
-
 ### Languages and Tools:
 
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
