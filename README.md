@@ -1,45 +1,64 @@
-## Heyyo, I'm <a href="https://github.com/Chayatorn007" target="_blank">Tang (Chayathorn)</a>!
-(IT Infrastructure & Cybersecurity Enthusiast 🛡️)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20Chayatorn007&fontSize=50&animation=fadeIn&fontAlignY=38&desc=DevOps%20|%20GitOps%20|%20Platform%20Engineering&descAlignY=51&descAlign=62" />
+</div>
 
-<a href="mailto:tang0813122991@gmail.com" target="_blank"><img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://github.com/Chayatorn007" target="_blank"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<h3 align="center">🚀 DevOps & Platform Engineer</h3>
 
-<br />
-
-### Languages and Tools:
-
-<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
-<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="left" alt="Windows Server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a>
-
-<br />
-<br />
-
-### 🛡️ Security & Infrastructure Stack:
-
-<a href="https://www.kali.org/" target="_blank"><img align="left" alt="Kali Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" /></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /></a>
-<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img align="left" alt="Windows Server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" /></a>
-<a href="https://www.vmware.com/" target="_blank"><img align="left" alt="VMware" width="26px" src="https://cdn.simpleicons.org/vmware/0091DA" /></a>
-<a href="https://www.proxmox.com/" target="_blank"><img align="left" alt="Proxmox" width="26px" src="https://cdn.simpleicons.org/proxmox/E57000" /></a>
-<a href="https://wazuh.com/" target="_blank"><img align="left" alt="Wazuh" width="26px" src="https://github.com/wazuh.png" /></a>
-<a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic Stack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /></a>
-<a href="https://grafana.com/" target="_blank"><img align="left" alt="Grafana" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" /></a>
-<a href="https://prometheus.io/" target="_blank"><img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" /></a>
-<a href="https://www.pfsense.org/" target="_blank"><img align="left" alt="pfSense" width="26px" src="https://cdn.simpleicons.org/pfsense/FFFFFF" /></a>
-
-<br /><br /><br />
+<p align="center">
+  Building highly available, secure, and scalable infrastructure using <b>GitOps</b> principles.
+</p>
 
 ---
 
-### Now Playing 🎧
+### 👨‍💻 About Me
 
-
-<br/>
+- 🔭 I’m currently working on **Wazuh Multi-Tenant & Logging Stack (Vector + OpenSearch)** via **Argo CD**.
+- 🌱 I’m currently diving deeper into **Kubernetes Security**, **GitOps Automation**, and **Infrastructure as Code (IaC)**.
+- 💬 Ask me about: **K3s, Argo CD, Wazuh, OPNsense, and Syslog architectures**.
+- ⚡ Fun fact: I love automating everything and making systems self-healing!
 
 ---
 
-[![Chayatorn007's github stats](https://github-readme-stats.vercel.app/api?username=Chayatorn007&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  
+  **Infrastructure & Container Orchestration**<br><br>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+
+  <br><br>**Security & Observability**<br><br>
+  <img src="https://img.shields.io/badge/Wazuh-005E8C?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSearch-005E8C?style=for-the-badge&logo=opensearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+
+  <br><br>**OS, Network & Scripting**<br><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPNsense-8C1B13?style=for-the-badge&logo=opnsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chayatorn007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Chayatorn007's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chayatorn007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chayatorn007&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chayatorn007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
