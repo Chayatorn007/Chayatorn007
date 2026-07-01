@@ -11,14 +11,6 @@
 
 ---
 
-### 💫 About Me
-
-I design, automate, and maintain resilient infrastructure. My focus is on building systems that remain stable and performant under load—specializing in Kubernetes orchestration, GitOps delivery pipelines, centralized logging, and secure network integrations.
-
-Right now, I am focusing on deploying a multi-tenant Wazuh security monitoring stack and centralized logging pipelines using Vector and OpenSearch, fully managed via Argo CD.
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 - **Platform & Automation:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
@@ -36,7 +28,3 @@ Right now, I am focusing on deploying a multi-tenant Wazuh security monitoring s
 *   **Infrastructure Integrations:** Setting up secure gateway routing, VPN networks (OPNsense / Tailscale), and system log forwarders.
 
 ---
-
-### 🧠 Core Philosophy
-
-> **"Sane defaults, clear runbooks, and repeatable deployments. A system should run smoothly without requiring someone to babysit it every day."**
